@@ -6,10 +6,8 @@ Olá! Sou um desenvolvedor apaixonado por criar soluções criativas e inovadora
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 **Formação:** Psicólogo clínico e desenvolvedor entusiasta
-- 🌟 **Interesses:** Desenvolvimento de software, ciência de dados, neuropsicologia e música
-- 🚴 **Hobbies:** Atletismo avançado, tocar guitarra e explorar novas tecnologias
-- 📚 **Aprendizado Atual:** Flutter, automação com Selenium e Big Data no esporte
+- 🎓 **Formação:** Flutter, Dart, Node, BootStrap, React, AndroidStudio
+- 📚 **Aprendizado Atual:** Atualmente estou criando aplicativos mobile para fins de teste
 
 ---
 
@@ -17,18 +15,14 @@ Olá! Sou um desenvolvedor apaixonado por criar soluções criativas e inovadora
 
 ### 🩺 **Sistema de Gestão para Clínicas de Psicologia**
 - 💼 **Tecnologias:** HTML, CSS, Flutter, Firebase
-- 📊 **Recursos:** Login, gráficos interativos, e segurança avançada para dados sensíveis
+- 📊 **Recursos:** Login com autenticação, gráficos interativos, e segurança avançada para dados sensíveis
 - 🎯 **Objetivo:** Simplificar o trabalho clínico com interfaces intuitivas e seguras
 
 ### 🥦 **App de Nutrição**
 - 📱 **Tecnologias:** Flutter
 - 🥗 **Funcionalidades:** Cálculo de IMC, gráficos detalhados sobre nutrientes e filtragem de alimentos
 - 📊 **Diferencial:** Usabilidade combinada com insights nutricionais personalizados
-
-### ⚙️ **Automação com Selenium**
-- 🤖 **Objetivo:** Automação de tarefas repetitivas para otimização de tempo
-- 🔧 **Diferenciais:** Scripts customizados e integração com Flask
-
+  
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -37,20 +31,4 @@ Olá! Sou um desenvolvedor apaixonado por criar soluções criativas e inovadora
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🤝 Vamos Colaborar?
-
-- 💌 **Entre em Contato:** [Seu E-mail ou LinkedIn]
-- 💡 **Ideias?** Fique à vontade para abrir issues e contribuir nos repositórios!
-- ⭐ **Gostou?** Deixe uma estrela nos projetos que você curtir!
-
----
-
-Obrigado por visitar meu GitHub! 😊 Vamos construir algo incrível juntos? 🚀
+Obrigado por visitar meu GitHub! 😊

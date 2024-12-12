@@ -1,6 +1,6 @@
 # 💻 Bem-vindo ao meu GitHub!
 
-Olá! Sou um desenvolvedor apaixonado por criar soluções criativas e inovadoras. Aqui você encontrará um pouco de tudo: projetos, ideias, e muita dedicação ao aprendizado contínuo. 🚀
+Olá! Sou um desenvolvedor esforçado que gosta de conhecer novas tecnologias e de aprender como utilizá-las
 
 ---
 
